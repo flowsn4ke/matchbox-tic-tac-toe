@@ -1,0 +1,92 @@
+[
+    {
+        "games": 1000000,
+        "userWins": 50300,
+        "AIWins": 833586,
+        "ties": 116114
+    },
+    {
+        "games": 18,
+        "userWins": 2,
+        "AIWins": 9,
+        "ties": 7
+    },
+    {
+        "games": 1000,
+        "userWins": 32,
+        "AIWins": 873,
+        "ties": 95
+    },
+    {
+        "games": 10,
+        "userWins": 1,
+        "AIWins": 4,
+        "ties": 5
+    },
+    {
+        "games": 100000,
+        "userWins": 3308,
+        "AIWins": 85709,
+        "ties": 10983
+    },
+    {
+        "games": 17,
+        "userWins": 6,
+        "AIWins": 4,
+        "ties": 7
+    },
+    {
+        "games": 1000,
+        "userWins": 37,
+        "AIWins": 855,
+        "ties": 108
+    },
+    {
+        "games": 1,
+        "userWins": 0,
+        "AIWins": 1,
+        "ties": 0
+    },
+    {
+        "games": 1000,
+        "userWins": 32,
+        "AIWins": 845,
+        "ties": 123
+    },
+    {
+        "games": 1,
+        "userWins": 0,
+        "AIWins": 0,
+        "ties": 1
+    },
+    {
+        "games": 1000,
+        "userWins": 37,
+        "AIWins": 846,
+        "ties": 117
+    },
+    {
+        "games": 10,
+        "userWins": 2,
+        "AIWins": 1,
+        "ties": 7
+    },
+    {
+        "games": 1000,
+        "userWins": 22,
+        "AIWins": 872,
+        "ties": 106
+    },
+    {
+        "games": 1000,
+        "userWins": 29,
+        "AIWins": 877,
+        "ties": 94
+    },
+    {
+        "games": 3,
+        "userWins": 0,
+        "AIWins": 0,
+        "ties": 3
+    }
+]
